@@ -1,0 +1,3 @@
+[submodule "themes/smigle-lite"]
+	path = themes/smigle-lite
+	url = https://github.com/joe-mccarthy/smigle-lite
